@@ -46,4 +46,6 @@ cd challenge <br>
 **pwn.college{U5kbEPUxipGPtZNaph1-MPCRsjm.dFTN1QDL1IjN0czW}**<br>
 <br>
 ## home sweet home
+/challenge/run ~/a <br>
+**pwn.college{Yf2OoDTeG82W04HjlrR3iQLOlD3.dNzM4QDL1IjN0czW}**
 
