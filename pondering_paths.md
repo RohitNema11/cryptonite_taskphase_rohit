@@ -17,17 +17,33 @@ cd (change directory) command - navigate around directories<br>
 <br>
 cd /usr/share/zoneinfo/posix/Asia<br>
 /challenge/run<br>
-**pwn.college{MA_kjZgL5ywYpvohzGQSBTZXg_5.dZDN1QDL1IjN0czW}**
+**pwn.college{MA_kjZgL5ywYpvohzGQSBTZXg_5.dZDN1QDL1IjN0czW}**<br>
+<br>
 ## Position elsewhere
 cd /usr/share/build-essential<br>
 /challenge/run<br>
-**pwn.college{QyrS7tPzc5US99Y1IWHiVUuFNGh.ddDN1QDL1IjN0czW}**
+**pwn.college{QyrS7tPzc5US99Y1IWHiVUuFNGh.ddDN1QDL1IjN0czW}**<br>
+<br>
 ## Position yet elsewhere
 cd /usr/share/zoneinfo/posix/Asia<br>
 /challenge/run<br>
-**pwn.college{MK9t5xpM784liCxiO8KT9aVGLN3.dhDN1QDL1IjN0czW}**
+**pwn.college{MK9t5xpM784liCxiO8KT9aVGLN3.dhDN1QDL1IjN0czW}**<br>
+<br>
 ## implicit relative paths, from /
+cd /<br>
+challenge/run<br>
+**pwn.college{ojNxLaI52-ha77yS5tmNwehM5yi.dlDN1QDL1IjN0czW}**<br>
+<br>
 ## explicit relative paths, from /
+cd / <br>
+./challenge/run <br>
+**pwn.college{ITbxDIAAu8m_lD3pdCuQKqHkyDl.dBTN1QDL1IjN0czW}**<br>
+<br>
 ## implicit relative path
+cd /<br>
+cd challenge <br>
+./run <br>
+**pwn.college{U5kbEPUxipGPtZNaph1-MPCRsjm.dFTN1QDL1IjN0czW}**<br>
+<br>
 ## home sweet home
 
