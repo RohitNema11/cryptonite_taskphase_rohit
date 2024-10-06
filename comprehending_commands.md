@@ -13,7 +13,14 @@ we can specify cat's arguments as absolute paths<br>
 ![image](https://github.com/user-attachments/assets/ca6b6091-a4d4-4f78-ad6d-970063c59a7f)<br>
 
 # grepping for a needle in a haystack
+**grep** command - search the file for a specific text <br>
+grep SEARCH_STRING /path/to/file <br>
+<br>
+![image](https://github.com/user-attachments/assets/bf75f830-08e2-42b9-b1d5-e06f112ec077)<br>
+
 # listing files
+**ls command** - ls will list files in all the directories provided to it as arguments, and in the current directory if no arguments are provided <br>
+
 # touching files
 # removing files
 # hidden files
