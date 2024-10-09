@@ -29,8 +29,14 @@ We can redirect input to program using < character. <br>
 ![image](https://github.com/user-attachments/assets/5eb5f97c-9581-4bf1-86f5-b73ed32a946d)<br>
 <br>
 # Grepping stored results
+![image](https://github.com/user-attachments/assets/22cb0fc5-7fa6-4189-bead-e11723022560)<br>
+<br>
+
 # Grepping live output
+![image](https://github.com/user-attachments/assets/c5e7f640-8dc1-4431-a0c0-a9d223886d7e)<br>
+<br>
 # Grepping errors
+
 # Duplicating piped data with tee
 # Writing to multiple programs
 # split piping stderr and stdout
