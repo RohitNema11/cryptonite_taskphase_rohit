@@ -17,5 +17,17 @@ hit n to go to the next result and N to go to the previous result<br>
 <br>
 
 # Searching for manuals
+**man man** command <br>
+<br>
+![image](https://github.com/user-attachments/assets/eedc0e67-d736-4b65-8bdb-bf784563a4e3)<br>
+<br>
 # Helpful programs
+**--help** command<br>
+<br>
+![image](https://github.com/user-attachments/assets/94e6e1c1-e3fe-44e1-812c-f99f54c38f1f)<br>
+<br>
+
 # Helpful for builtins
+![image](https://github.com/user-attachments/assets/2f3caecb-ee46-4e8a-8bfc-471b77c8a8d3)<br>
+<br>
+
