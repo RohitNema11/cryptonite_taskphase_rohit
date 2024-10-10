@@ -1,5 +1,3 @@
-# Intro to commands
-
 Prompt <br>
 **hacker@dojo:~$** <br>
 hacker - username <br>
@@ -8,6 +6,7 @@ $ - not an administrative user <br>
 <br>
 The **whoami** command returns the username of the user <br>
 <br>
+# Intro to commands
 Invoking the **hello** command <br>
 `hacker@hello~intro-to-commands:~$ hello`<br>
 **pwn.college{k_yH1DE5aSsV06vc96TOeOVX4-8.ddjNyUDL1IjN0czW}**
