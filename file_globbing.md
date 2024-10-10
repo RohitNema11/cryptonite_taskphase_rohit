@@ -1,3 +1,5 @@
+Globbing lets you reference files without typing them all out, or typing out their full paths.<br>
+<br>
 # Matching with *
 '*' character in an argument tries to replace that argument with any files that match the pattern<br>
 <br>
