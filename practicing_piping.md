@@ -16,11 +16,16 @@ Aside from redirecting the output of echo, we can redirect the output of any com
 ![image](https://github.com/user-attachments/assets/cff2811c-d143-40ea-b1fb-9aa6705d8d40)<br>
 <br>
 # Appending output
->> charcter can be used to append all the outputs to the same file<br>
+'>>' charcter can be used to append all the outputs to the same file<br>
 <br>
 ![image](https://github.com/user-attachments/assets/ecf8c61f-fe7a-427c-9045-6c7ee9d185c0)<br>
 <br>
 # Redirecting errors
+A File Descriptor (FD) is a number the describes a communication channel in Linux<br>
+FD 0: Standard Input<br>
+FD 1: Standard Output<br>
+FD 2: Standard Error<br>
+<br>
 2> will give standard error<br>
 `hacker@dojo:~$ /challenge/run 2> errors.log` <br>
 This will redirect standard error (FD 2) to the errors.log file <br>
