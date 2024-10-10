@@ -1,4 +1,10 @@
+Every process in Linux has three initial, standard channels of communication:<br>
+Standard Input(stdin) <br>
+Standard Output(stdout) <br>
+Standard Error(stderr) <br>
+<br>
 # Redirecting output
+redirecting stdout to a file <br>
 `hacker@dojo:~$ echo hi > asdf`<br>
 The > character redirect the output of echo hi (which will be hi) to the file asdf. We can then use a program such as cat to output this file. <br>
 <br>
