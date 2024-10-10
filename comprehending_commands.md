@@ -56,5 +56,13 @@ the files by default. Files that start with a . don't show up by default in ls. 
 ![image](https://github.com/user-attachments/assets/b2c83afd-6763-4f4d-82f4-90f0687fe13a)<br>
 
 # linking files
+links in linux <br>
+1. Hard link - points to a location in hard drive <br>
+2. Soft link(symbolic link) - points to a file <br>
+<br>
+Symbolic link syntax `ln -s original_file store_file` <br>
+<br>
+The **file** command takes a filename and tells you what type of file it is<br>
+<br>
 ![image](https://github.com/user-attachments/assets/2c690c8f-5278-41e7-a1c0-a300c3f0b0b2)<br>
 
